@@ -4,7 +4,7 @@ import { IoOpenOutline } from "react-icons/io5";
 import { FiGithub } from "react-icons/fi";
 const ProjectCard = ({project}) => {
   return (
-    <div className="mx-auto w-[90%] md:w-full bg-[#311b4e]/50 border border-[#8b5cf6]/20 rounded-2xl hover:border-[#8b5cf6]/90 transition-all duration-300 hover:shadow-lg hover:shadow-[#8b5cf6]/50 overflow-hidden hover:-translate-y-4">
+    <div className="mx-auto w-[95%] md:w-full bg-[#311b4e]/50 border border-[#8b5cf6]/20 rounded-2xl hover:border-[#8b5cf6]/90 transition-all duration-300 hover:shadow-lg hover:shadow-[#8b5cf6]/50 overflow-hidden hover:-translate-y-4">
         <div className="flex flex-col gap-6">
           <div className="relative h-48 overflow-hidden">
             <img
