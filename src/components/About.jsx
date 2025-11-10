@@ -5,7 +5,7 @@ import resume from '../assets/NarraRakeshResume.pdf'
 const About = () => {
 
   return (
-    <section id="about" className="min-h-screen py-26 px-4 bg-[#1a0b2e]">
+    <section id="about" className="min-h-screen  flex flex-col justify-center px-4 bg-[#1e1d27]">
         <div className="max-w-4xl mx-auto">
             <h1 className="text-center text-2xl md:text-4xl mb-12 text-[#a78bfa]">About Me</h1>
             
@@ -18,9 +18,7 @@ const About = () => {
               </p>
               
               <p className="text-gray-300 text-sm md:text-lg leading-relaxed">
-                I bridge the gap between 
-                technical implementation and creative vision. I'm constantly learning new technologies and 
-                best practices to deliver cutting-edge solutions for my clients and projects.
+                I combine creative thinking with technical skills to build clean, user-friendly websites and applications. I’m always learning new technologies to improve my work and deliver better results
               </p>
 
 

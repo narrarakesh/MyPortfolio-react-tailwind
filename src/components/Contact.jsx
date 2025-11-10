@@ -62,7 +62,7 @@ const Contact = () => {
     }
 
   return (
-    <section id="contact" className="min-h-screen py-25 px-4 bg-[#1a0b2e]">
+    <section id="contact" className="min-h-screen py-25 px-4 bg-[#1e1d27]">
         <Toaster position="top-center" toastOptions={{
             success: {
                 className:

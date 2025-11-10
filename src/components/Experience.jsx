@@ -5,7 +5,7 @@ import SkillsTabs from './cards/SkillsTabs'
 
 const Experience = () => {
   return (
-    <section id="experience" className="min-h-screen py-25 px-4 bg-[#1a0b2e]">
+    <section id="experience" className="min-h-screen py-25 px-4 bg-[#1e1d27]">
         <div className="max-w-6xl mx-auto">
             <h1 className="text-center text-2xl md:text-4xl mb-12 text-[#a78bfa]">Experience & Skills</h1>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -18,7 +18,7 @@ const Experience = () => {
                         }
                     </div>
                 </div>
-                <div className="flex flex-col  items-center">
+                <div className="flex flex-col items-center">
                     <h2 className="mb-2 md:mb-8 text-[#a78bfa]">Skills</h2>
                     <div className=" pl-8">
                         <SkillsTabs/>

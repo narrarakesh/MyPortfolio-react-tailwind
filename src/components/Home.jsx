@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <section
         id="home"
-        className="min-h-screen py-26 bg-[#1a0b2e] flex items-center justify-center relative overflow-hidden"
+        className="min-h-screen py-26 bg-[#1e1d27] flex items-center justify-center relative overflow-hidden"
         // style={{
         //     background: 'linear-gradient(to bottom, #1a0b2e 0%, #0a0118 100%)',
         // }}
