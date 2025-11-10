@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <nav
-    className="sticky top-0 z-50 bg-[#1e1d27] backdrop-blur-md px-6 py-4 md:px-20 flex justify-between items-center text-white border-b border-purple-600/20" 
+    className="sticky top-0 z-50 bg-[#120d20] backdrop-blur-md px-6 py-4 md:px-20 flex justify-between items-center text-white border-b border-purple-600/20" 
     // className="relative bg-[#1a0b2e] px-6 py-4 md:px-20 flex justify-between items-center text-white border-b border-purple-600/20"
     >
       <div className="text-2xl font-semibold text-purple-600">{'<NR />'}</div>

@@ -5,7 +5,7 @@ import resume from '../assets/NarraRakeshResume.pdf'
 const About = () => {
 
   return (
-    <section id="about" className="min-h-screen  flex flex-col justify-center px-4 bg-[#1e1d27]">
+    <section id="about" className="min-h-screen  flex flex-col justify-center px-4 bg-[#120d20]">
         <div className="max-w-4xl mx-auto">
             <h1 className="text-center text-2xl md:text-4xl mb-12 text-[#a78bfa]">About Me</h1>
             

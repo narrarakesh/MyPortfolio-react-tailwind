@@ -4,7 +4,7 @@ import { projects } from '../utils/Data';
 
 const Projects = () => {
   return (
-    <section id="projects" className="min-h-screen py-25 px-4 bg-[#1e1d27]">
+    <section id="projects" className="min-h-screen py-25 px-4 bg-[#120d20]">
         <div className="max-w-6xl mx-auto">
             <h1 className="text-center text-2xl md:text-4xl mb-12 text-[#a78bfa]">Projects</h1>
             
