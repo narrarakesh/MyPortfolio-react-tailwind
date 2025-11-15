@@ -30,8 +30,8 @@ export const projects =
                 description: 'A Project Management Tool that allows admins to create, assign, and track tasks, while members can view and update their assigned tasks.',
                 image: projX,
                 tags: ['React', 'Node.js','Express', 'MongoDB'],
-                liveLink:'',
-                gitRepo: '',
+                liveLink:'https://projex99.netlify.app/',
+                gitRepo: 'https://github.com/narrarakesh/MERN-PROJX/',
               },
               
               
