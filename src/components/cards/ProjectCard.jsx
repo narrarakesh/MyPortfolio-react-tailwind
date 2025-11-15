@@ -42,8 +42,8 @@ const ProjectCard = ({project}) => {
                 <span>Live Demo</span>
               </a>
               <a
-                {...(project?.liveLink
-                  ? { href: project.liveLink, target: "_blank", rel: "noopener noreferrer" }
+                {...(project?.gitRepo
+                  ? { href: project.gitRepo, target: "_blank", rel: "noopener noreferrer" }
                   : {})}
                 className="px-4 py-1.5 rounded-lg flex flex-1 gap-2 items-center justify-center bg-slate-100 border-[#8b5cf6] text-[#8c67fc] hover:bg-[#8b5cf6]/10 hover:text-white font-semibold cursor-pointer"
               >
